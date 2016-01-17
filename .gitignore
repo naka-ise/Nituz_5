@@ -5,9 +5,9 @@
 *.suo
 *.user
 *.sln.docstates
-
+C:\Users\noa\Source\Repos\Nituz_5\WpfApplication6
 # Build results
-
+/.vs
 [Dd]ebug/
 [Rr]elease/
 x64/
